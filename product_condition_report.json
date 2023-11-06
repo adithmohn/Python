@@ -1,0 +1,27 @@
+{
+    "New": {
+        "Description": 212,
+        "Short Description": 1954,
+        "Total": 2166
+    },
+    "Refurbished": {
+        "Description": 5788,
+        "Short Description": 1161,
+        "Total": 6949
+    },
+    "Renew": {
+        "Description": 40,
+        "Short Description": 1051,
+        "Total": 1091
+    },
+    "Remanufactured": {
+        "Description": 0,
+        "Short Description": 0,
+        "Total": 0
+    },
+    "Recertified": {
+        "Description": 200,
+        "Short Description": 417,
+        "Total": 617
+    }
+}
